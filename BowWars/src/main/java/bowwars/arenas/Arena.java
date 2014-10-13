@@ -1,4 +1,4 @@
-package arenas;
+package bowwars.arenas;
 
 import java.util.HashMap;
 import java.util.List;

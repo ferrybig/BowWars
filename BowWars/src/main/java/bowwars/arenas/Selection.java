@@ -1,4 +1,4 @@
-package arenas;
+package bowwars.arenas;
 
 import org.bukkit.Location;
 
