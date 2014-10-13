@@ -1,6 +1,6 @@
 package bowwars;
 
-import bowwars.commands.MainCommand;
+import bowwars.commands.MainCommand; 
 import bowwars.listeners.AreaListener;
 import org.bukkit.plugin.java.JavaPlugin;
 
