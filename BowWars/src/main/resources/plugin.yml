@@ -1,0 +1,8 @@
+main: bowwars.Main
+name: BowWars
+version: 1.0.0
+authors: [ferrybig, krijn1999]
+description: |
+   The bowwars plugin
+load: POSTWORLD
+database: false
